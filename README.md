@@ -1,4 +1,4 @@
 # WCM_YOG
 testing
-Hello WCM XXXX
+Hello WCM
 Hjk
